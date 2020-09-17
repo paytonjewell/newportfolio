@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76156930.chunk.css",
+    "main.js": "/static/js/main.08fa1035.chunk.js",
+    "main.js.map": "/static/js/main.08fa1035.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.0231230a.chunk.js": "/static/js/2.0231230a.chunk.js",
+    "static/js/2.0231230a.chunk.js.map": "/static/js/2.0231230a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5278f9a1e142beb31caef91b74fe5877.js": "/precache-manifest.5278f9a1e142beb31caef91b74fe5877.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.76156930.chunk.css.map": "/static/css/main.76156930.chunk.css.map",
+    "static/js/2.0231230a.chunk.js.LICENSE.txt": "/static/js/2.0231230a.chunk.js.LICENSE.txt",
+    "static/media/me2.png": "/static/media/me2.501e4152.png",
+    "static/media/mock1.png": "/static/media/mock1.617c35af.png",
+    "static/media/mock2.png": "/static/media/mock2.2ae05598.png",
+    "static/media/mock3.png": "/static/media/mock3.f164479f.png",
+    "static/media/mock4.png": "/static/media/mock4.efd2ab0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.0231230a.chunk.js",
+    "static/css/main.76156930.chunk.css",
+    "static/js/main.08fa1035.chunk.js"
+  ]
+}
